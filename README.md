@@ -14,6 +14,7 @@ Over the years I have experimented with a few different programming languages in
         <img src="./images/linkedin.png">
     </a>
 </div>
+
 ## 🛠 Languages
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,python,html,css,json,yaml,postgresql,mysql,markdown)](https://github.com/kasteelharry)
