@@ -4,6 +4,14 @@ Welcome to my GitHub profile. My name is Joris Kuiper and I am a Technical Compu
 
 Over the years I have experimented with a few different programming languages in various projects. These projects have ranged from a PoS system to websites and servers. Most of them are public. However due to the academic nature of some projects, I had to keep those private unfortunately.
 
+<a href="https://joriskuiper.com">
+    <img src="./images/website.png">
+</a>
+<a href="https://www.linkedin.com/in/joris-kuiper-b070b6164/">
+    <img src="./images/linkedin.png">
+</a>
+
+
 ## 🛠 Languages
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,python,html,css,json,yaml,postgresql,mysql,markdown)](https://github.com/kasteelharry)
