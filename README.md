@@ -17,7 +17,7 @@ Over the years I have experimented with a few different programming languages in
 
 ## 🛠 Languages, Frameworks, and Tools
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,json,yaml,postgresql,mysql,markdown&frameworks=express,react,next&tools=git,docker,npm,gradle&theme=dark)](https://github.com/kasteelharry)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,json,yaml,postgresql,mysql,markdown&frameworks=express,react,next&tools=git,docker,npm,gradle&theme=radical)](https://github.com/kasteelharry)
 
 ## 📊 Statistics
 
