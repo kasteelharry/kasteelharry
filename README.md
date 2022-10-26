@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile. My name is Joris Kuiper and I am a Technical Computer Science student at the University of Twente and aspiring software engineer.
 
-Over the years I have experimented with a few different programming languages in various projects. These projects have ranged from a PoS system to websites and servers. Most of them are public. However due to the academic nature of some projects, I had to keep those private unfortunately.
+Over the years I have experimented with a few different programming languages in various projects. These projects have ranged from a PoS system to a game. Most of my projects are public. However due to the academic nature of some of them, they are kept private such that I do not commit academic fraud.
+
 <div style="
     display: flex;
     justify-content: space-evenly;
