@@ -4,6 +4,8 @@ Welcome to my GitHub profile. My name is Joris Kuiper and I am a Technical Compu
 
 Over the years I have experimented with a few different programming languages in various projects. These projects have ranged from a PoS system to a game. Most of my projects are public. However due to the academic nature of some of them, they are kept private such that I do not commit academic fraud.
 
+Currently, I also use this account for my work. Thus a lot of my activity is hidden in private repositories.
+
 <div style="
     display: flex;
     justify-content: space-evenly;
