@@ -20,7 +20,7 @@ Currently, I also use this account for my work. Thus a lot of my activity is hid
 
 ## 🛠 Languages, Frameworks, and Tools
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,php,html,css,json,yaml,postgresql,mysql,markdown,vue&frameworks=express,react,next&tools=git,docker,npm,gradle&theme=radical)](https://github.com/kasteelharry)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,php,html,css,json,yaml,postgresql,mysql,markdown,vue,golang&frameworks=express,react,next&tools=git,docker,npm,gradle&theme=radical)](https://github.com/kasteelharry)
 
 ## 📊 Statistics
 
