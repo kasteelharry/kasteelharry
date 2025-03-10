@@ -7,12 +7,6 @@ Over the years I have experimented with a few different programming languages in
 Currently, I also use this account for my work. Thus a lot of my activity is hidden in private repositories.
 
 <div style="
-    display: flex;
-    justify-content: space-evenly;
-    max-width: 812px; ">
-    <a href="https://joriskuiper.com">
-        <img src="./images/website.png">
-    </a>
     <a href="https://www.linkedin.com/in/joris-kuiper-b070b6164/">
         <img src="./images/linkedin.png">
     </a>
